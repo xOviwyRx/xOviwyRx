@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Andrey Yurov
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning GoLang
+- 🌱 I’m currently learning Go
 - 📫 How to reach me: a.yurov6@gmail.com
 
 <!---
