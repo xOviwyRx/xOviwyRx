@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Andrey Yurov
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently learning Laravel framework and Golang
 - 📫 How to reach me: a.yurov6@gmail.com
 
 <!---
