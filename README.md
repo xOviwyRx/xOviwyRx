@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Andrey Yurov
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Golang
-- 📫 How to reach me: a.yurov6@gmail.com
+- 👋 Hi, I'm @Andrey Yurov
+- 💼 Ruby on Rails Backend Developer
+- 🚀 Open to new Rails projects
+- 📫 a.yurov6@gmail.com
 
 <!---
 xOviwyRx/xOviwyRx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
