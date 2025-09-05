@@ -1,6 +1,5 @@
 - 👋 Hi, I'm @Andrey Yurov
 - 💼 Ruby on Rails Backend Developer
-- 🚀 Open to new Rails projects
 - 📫 a.yurov6@gmail.com
 
 <!---
